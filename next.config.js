@@ -26,13 +26,6 @@ module.exports = (phase) => ({
     ignoreDuringBuilds: Boolean(process.env.VERCEL),
   },
 
-  // https://github.com/vercel/next.js/blob/canary/packages/next/server/config-shared.ts#L110
-  experimental: {
-    optimizeCss: true,
-    optimizeImages: true,
-    workerThreads: true,
-  },
-
   async headers() {
     return [
       {
