@@ -51,7 +51,7 @@
     "ignorePatterns": [
       ".next",
       ".yarn",
-      "/src/generated",
+      "__generated__",
       "node_modules"
     ],
     "rules": {
