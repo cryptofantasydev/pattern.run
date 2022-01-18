@@ -1,7 +1,23 @@
-<!-- markdownlint-disable MD033 MD041 -->
+<!-- markdownlint-disable MD033 MD036 MD041 -->
 
-<div align="center">
+# patterns.run
 
-[![header](./public/social.png)](https://patterns.run)
+Collection of snippets to render logical patterns 🖼
 
-</div>
+## Contributing
+
+**Add patterns**
+
+Head over to [`patterns/`](./patterns/) directory and add your patterns.
+
+**Update website**
+
+TODO
+
+## License
+
+[MIT License, Copyright (c) 2022 Griko Nibras](./LICENSE)
+
+## Compliance
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgrikomsn%2Fpatterns.run.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgrikomsn%2Fpatterns.run?ref=badge_large)
