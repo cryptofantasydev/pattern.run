@@ -20,6 +20,10 @@ module.exports = (phase) => ({
     VERCEL: phase == PHASE_DEVELOPMENT_SERVER ? true : process.env.VERCEL,
   },
 
+  eslint: {
+    ignoreDuringBuilds: Boolean(process.env.VERCEL),
+  },
+
   // https://github.com/vercel/next.js/blob/canary/packages/next/server/config-shared.ts#L110
   experimental: {
     optimizeCss: true,
@@ -105,6 +109,10 @@ module.exports = (phase) => ({
     return [
       //
     ];
+  },
+
+  typescript: {
+    ignoreBuildErrors: Boolean(process.env.VERCEL),
   },
 
   // https://nextjs.org/docs/api-reference/next.config.js/custom-webpack-config
