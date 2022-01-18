@@ -1,4 +1,4 @@
-// @ts-check
+/* eslint-disable */
 
 const favicons = require("favicons");
 const fs = require("fs");
