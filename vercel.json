@@ -1,4 +1,9 @@
 {
+  "build": {
+    "env": {
+      "YARN_CACHE_FOLDER": "./.next/cache/yarn-cache"
+    }
+  },
   "github": {
     "silent": true
   }
