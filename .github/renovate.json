@@ -1,0 +1,16 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:base", "helpers:disableTypesNodeMajor"],
+  "assignees": ["grikomsn"],
+  "labels": ["automerge", "dependencies"],
+  "rangeStrategy": "update-lockfile",
+  "packageRules": [
+    {
+      "dependencyDashboardApproval": true,
+      "enabled": false,
+      "matchPackageNames": ["node"],
+      "matchManagers": ["npm"],
+      "matchDepTypes": ["engines"]
+    }
+  ]
+}
