@@ -2409,8 +2409,8 @@ __metadata:
   linkType: hard
 
 "eslint-config-kdnj@npm:^2":
-  version: 2.0.3
-  resolution: "eslint-config-kdnj@npm:2.0.3"
+  version: 2.0.4
+  resolution: "eslint-config-kdnj@npm:2.0.4"
   dependencies:
     eslint-config-kentcdodds: ^20
     eslint-config-prettier: ^8
@@ -2425,7 +2425,7 @@ __metadata:
   peerDependenciesMeta:
     typescript:
       optional: true
-  checksum: b954d8b03c2a0170a8d187b45be41655ec6fdfdeba467503293de7e33e40d264ff9704f00c70da045870f74d6e4b7750d10ea529c216fe99c4a9555244fd1285
+  checksum: 783dbb3fa1d3f5186aeed83b6a386890690ac490f9a15935b1089194907f54302dabdccacf7283e90577cb08ec23aaa0c5939cc52e4e124f0c5ce543e23f27f2
   languageName: node
   linkType: hard
 
