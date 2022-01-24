@@ -4419,9 +4419,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"next-sitemap@npm:^1":
-  version: 1.9.12
-  resolution: "next-sitemap@npm:1.9.12"
+"next-sitemap@npm:^2.0.0":
+  version: 2.0.2
+  resolution: "next-sitemap@npm:2.0.2"
   dependencies:
     "@corex/deepmerge": ^2.6.148
     minimist: ^1.2.5
@@ -4429,7 +4429,7 @@ __metadata:
     next: "*"
   bin:
     next-sitemap: bin/next-sitemap
-  checksum: 069b3c2c26dadc970b0768f6bc525784a4a75d9b3ab6ea6da6024034d078a0ac4954251040ffa9dd089f4960ff15aa02d572cfe9064e24b7101f2d423e405e73
+  checksum: 3b98ea313efd04276f97cf48a2788dccae961b95aefbe8bfdc279a877dc3b66fe4268b6379b9c0aba21a1b7c3ecab4b5d6dd748daf94786966793f08d8bd679c
   languageName: node
   linkType: hard
 
@@ -4967,7 +4967,7 @@ __metadata:
     lint-staged: ^12
     next: ^12
     next-seo: ^4
-    next-sitemap: ^1
+    next-sitemap: ^2.0.0
     pattern-runner: latest
     pinst: ^2
     react: ^17
