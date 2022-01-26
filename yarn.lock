@@ -2908,9 +2908,9 @@ __metadata:
   linkType: hard
 
 "fathom-client@npm:^3":
-  version: 3.3.1
-  resolution: "fathom-client@npm:3.3.1"
-  checksum: a7d06362fc85746f33e5451e63c749ceca9e1b520690a76461adac621316256735f8e54a4d0c2af1573ab3584d2922df892e606b4370871c0ddfe2aef3230dc2
+  version: 3.4.0
+  resolution: "fathom-client@npm:3.4.0"
+  checksum: fac2cd86d11251c640e668071afc9f2a0a84ffa28987a890ac01413ab7cd2d78a10e23567290c6679421672bbce0bb24a1aeabb9b3fd4a39d0bf4ce6f49da912
   languageName: node
   linkType: hard
 
