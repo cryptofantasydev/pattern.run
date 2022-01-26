@@ -328,8 +328,8 @@ __metadata:
   linkType: hard
 
 "@codesandbox/sandpack-react@npm:^0":
-  version: 0.13.5
-  resolution: "@codesandbox/sandpack-react@npm:0.13.5"
+  version: 0.13.6
+  resolution: "@codesandbox/sandpack-react@npm:0.13.6"
   dependencies:
     "@code-hike/classer": ^0.0.0-aa6efee
     "@codemirror/closebrackets": ^0.19.0
@@ -349,12 +349,13 @@ __metadata:
     "@react-hook/intersection-observer": ^3.1.1
     codesandbox-import-util-types: ^2.2.3
     codesandbox-import-utils: ^2.2.3
+    lodash.isequal: ^4.5.0
     react-devtools-inline: 4.4.0
     react-is: ^17.0.2
   peerDependencies:
     react: ^16.8.0 || ^17
     react-dom: ^16.8.0 || ^17
-  checksum: e8df194721cb0cb8a5892d1bdfdd383a7638de0f25f291a2477477f026b9543700ffced1f98668c3b566f9e0fa770d8b6c0d422d6081c86f8fc619e14e9234b5
+  checksum: 7a9f615c717bfa4b8829885b7a3aa1b22be90d7235cad012876e2eaf475d858d930aa2bc9c13d087695cf8be97545518226c3396e4d24e84fb93ee18a60420a3
   languageName: node
   linkType: hard
 
