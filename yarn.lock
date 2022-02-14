@@ -1038,9 +1038,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:^14":
-  version: 14.18.11
-  resolution: "@types/node@npm:14.18.11"
-  checksum: 58f75d05406004b83f1fd4c72115d2c180f22812bd48187b89b27dd9ea09f90774b2261f068e94bf6a6792a1f33a585b624135be3c4b6e2acd766043148754a7
+  version: 14.18.12
+  resolution: "@types/node@npm:14.18.12"
+  checksum: 8a0273caa0584020adb8802784fc7d4f18f05e6c205335b7f3818a91d6b0c22736b9f51da3428d5bc54076ad47f1a4d6d57990a3ce8489a520ac66b2b3ff24bc
   languageName: node
   linkType: hard
 
