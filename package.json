@@ -17,7 +17,7 @@
   "engines": {
     "node": "14.x"
   },
-  "packageManager": "yarn@3.1.1",
+  "packageManager": "yarn@3.2.0",
   "dependencies": {
     "@codesandbox/sandpack-react": "^0",
     "@mantine/core": "^3",
