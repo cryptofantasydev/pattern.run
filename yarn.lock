@@ -6477,13 +6477,13 @@ __metadata:
   linkType: hard
 
 "zustand@npm:^3":
-  version: 3.7.0
-  resolution: "zustand@npm:3.7.0"
+  version: 3.7.1
+  resolution: "zustand@npm:3.7.1"
   peerDependencies:
     react: ">=16.8"
   peerDependenciesMeta:
     react:
       optional: true
-  checksum: 6783ce6572d9dea0fde6390552b6f191416806cde697c544759bf58aad37ac5da94bee7a37b2758eed2f2fcd57e70465c0549f732631923e2df1abbfe452e705
+  checksum: 987a2cee95e0fd085c3556d21289a34bb1e9727155837c480617dee839453858523d6321abf3b18de4867fb07d14f5ff7abf9a8404357baa7ec73dffec6dd4f7
   languageName: node
   linkType: hard
