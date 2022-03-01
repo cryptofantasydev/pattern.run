@@ -572,17 +572,17 @@ __metadata:
   linkType: hard
 
 "@mantine/prism@npm:^3":
-  version: 3.6.11
-  resolution: "@mantine/prism@npm:3.6.11"
+  version: 3.6.12
+  resolution: "@mantine/prism@npm:3.6.12"
   dependencies:
     clsx: ^1.1.1
     prism-react-renderer: ^1.2.1
   peerDependencies:
-    "@mantine/core": 3.6.11
-    "@mantine/hooks": 3.6.11
+    "@mantine/core": 3.6.12
+    "@mantine/hooks": 3.6.12
     react: ">=16.8.0"
     react-dom: ">=16.8.0"
-  checksum: e9e2850de17b359562c54c7f62f95cc325f3fd7f9c15afe95cf5c6ee456de6fcbaa83b69128cdaef3e62174430f07f8041decb3b57147d28497b7535befd2587
+  checksum: 1cc7c130ce9251f93db77b804dd22dbb01924fa022d533eac7f30ffc8bd487faf456593ea63af03afc2ff69f774a1aa974a6c23b7e4f7fdf7aa11b3a4beff8a7
   languageName: node
   linkType: hard
 
