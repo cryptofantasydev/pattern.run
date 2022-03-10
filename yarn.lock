@@ -300,8 +300,8 @@ __metadata:
   linkType: hard
 
 "@codesandbox/sandpack-react@npm:^0":
-  version: 0.14.5
-  resolution: "@codesandbox/sandpack-react@npm:0.14.5"
+  version: 0.14.7
+  resolution: "@codesandbox/sandpack-react@npm:0.14.7"
   dependencies:
     "@code-hike/classer": ^0.0.0-aa6efee
     "@codemirror/closebrackets": ^0.19.0
@@ -327,7 +327,7 @@ __metadata:
   peerDependencies:
     react: ^16.8.0 || ^17
     react-dom: ^16.8.0 || ^17
-  checksum: 11190a48b6d2622c79f94426366b37c487e2bdb4c96cc7d5db9191a0673986a0df94a2d384ff7c22b034f3ab239c10b61babe9b288c7eca9a39512ed7147ae2f
+  checksum: 4a29e1c62ac63ac64bdebd37a9f17a8cba4fded443c233bf4a08e5481d121deebe57290c923230d936b541c80c0a10ea0ed504f18c21012eecd038c1a1977c03
   languageName: node
   linkType: hard
 
