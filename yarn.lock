@@ -558,16 +558,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mantine/next@npm:^3":
-  version: 3.6.14
-  resolution: "@mantine/next@npm:3.6.14"
+"@mantine/next@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "@mantine/next@npm:4.0.0"
   dependencies:
-    "@mantine/ssr": 3.6.14
+    "@mantine/ssr": 4.0.0
   peerDependencies:
     next: "*"
     react: ">=16.8.0"
     react-dom: ">=16.8.0"
-  checksum: 337b318308f3e62fc1e617d45bd0049828de0141a9d4fb6994f5460552d89557f6ae29283dc2be5f700129d46d039c0f0e47f962920b62af3eb209710679171a
+  checksum: 719909f51f2fec576a01fc9a25b0d83cb8ca89f9ee8efe8e1bc01a0dac58d40adf3627461589890a42e2edc385d91652ffacca421e6ca926b2645ae4e9733b4e
   languageName: node
   linkType: hard
 
@@ -586,39 +586,22 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mantine/ssr@npm:3.6.14":
-  version: 3.6.14
-  resolution: "@mantine/ssr@npm:3.6.14"
+"@mantine/ssr@npm:4.0.0":
+  version: 4.0.0
+  resolution: "@mantine/ssr@npm:4.0.0"
   dependencies:
     "@emotion/cache": ^11.7.1
     "@emotion/react": ^11.7.1
     "@emotion/serialize": ^1.0.2
     "@emotion/server": ^11.4.0
     "@emotion/utils": ^1.0.0
-    "@mantine/styles": 3.6.14
+    "@mantine/styles": 4.0.0
     csstype: ^3.0.9
     html-react-parser: ^1.3.0
   peerDependencies:
     react: ">=16.8.0"
     react-dom: ">=16.8.0"
-  checksum: 67ad299f947bd2bfe85ff326f1971c94b2c0ea4a32e141ec1d9d0197827b40d3506138ae95325601ae15c01e4be7a4c75642d5eac6bf4f13ba5b238d14bff750
-  languageName: node
-  linkType: hard
-
-"@mantine/styles@npm:3.6.14":
-  version: 3.6.14
-  resolution: "@mantine/styles@npm:3.6.14"
-  dependencies:
-    "@emotion/cache": ^11.7.1
-    "@emotion/react": ^11.7.1
-    "@emotion/serialize": ^1.0.2
-    "@emotion/utils": ^1.0.0
-    clsx: ^1.1.1
-    csstype: ^3.0.9
-  peerDependencies:
-    react: ">=16.8.0"
-    react-dom: ">=16.8.0"
-  checksum: c386fbf20c426573ba3dee6ec54ae3a226b2cedc01e598c841a7276e00d31d448e56ff75f7ac21895b489d5886bac59fe4c7825dc534f1ffd2f74c7f95216972
+  checksum: deb6f23e2895890645220beb2ae6eaf382154d2987468686d6bcee50ec784afa57a413cdf24d2801b1a7a9f0ca63d767e0d866d357febd978c7a624ec7f01142
   languageName: node
   linkType: hard
 
@@ -4866,7 +4849,7 @@ __metadata:
     "@codesandbox/sandpack-react": ^0
     "@mantine/core": ^4.0.0
     "@mantine/hooks": ^4.0.0
-    "@mantine/next": ^3
+    "@mantine/next": ^4.0.0
     "@mantine/prism": ^3
     "@netlify/plugin-nextjs": beta
     "@types/node": ^14
