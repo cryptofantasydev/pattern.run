@@ -549,12 +549,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mantine/hooks@npm:^3":
-  version: 3.6.14
-  resolution: "@mantine/hooks@npm:3.6.14"
+"@mantine/hooks@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "@mantine/hooks@npm:4.0.0"
   peerDependencies:
     react: ">=16.8.0"
-  checksum: b5355d2f825f00b1e558331b1a93ccff211c354c9fd8d4b9c597dcd90790399d12a24817d67dff1c21521940defa218981b8cd2c2e0f3a229117c844d875a40f
+  checksum: 4b0f3e0e6b873985721116265f9252d340e66aedbef6e2a6976a746af9741186f171e692ec42310fa9461a8011afd303c5cdf86042d11eb8c28a75c1ffe5cbd5
   languageName: node
   linkType: hard
 
@@ -4865,7 +4865,7 @@ __metadata:
   dependencies:
     "@codesandbox/sandpack-react": ^0
     "@mantine/core": ^4.0.0
-    "@mantine/hooks": ^3
+    "@mantine/hooks": ^4.0.0
     "@mantine/next": ^3
     "@mantine/prism": ^3
     "@netlify/plugin-nextjs": beta
