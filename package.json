@@ -23,7 +23,7 @@
     "@mantine/core": "^4.0.0",
     "@mantine/hooks": "^4.0.0",
     "@mantine/next": "^4.0.0",
-    "@mantine/prism": "^3",
+    "@mantine/prism": "^4.0.0",
     "fathom-client": "^3",
     "next": "^12",
     "next-seo": "^5.0.0",
