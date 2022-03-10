@@ -20,7 +20,7 @@
   "packageManager": "yarn@3.2.0",
   "dependencies": {
     "@codesandbox/sandpack-react": "^0",
-    "@mantine/core": "^3",
+    "@mantine/core": "^4.0.0",
     "@mantine/hooks": "^3",
     "@mantine/next": "^3",
     "@mantine/prism": "^3",
