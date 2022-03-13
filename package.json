@@ -20,14 +20,14 @@
   "packageManager": "yarn@3.2.0",
   "dependencies": {
     "@codesandbox/sandpack-react": "^0",
-    "@mantine/core": "^4.0.0",
-    "@mantine/hooks": "^4.0.0",
-    "@mantine/next": "^4.0.0",
-    "@mantine/prism": "^4.0.0",
+    "@mantine/core": "^4",
+    "@mantine/hooks": "^4",
+    "@mantine/next": "^4",
+    "@mantine/prism": "^4",
     "fathom-client": "^3",
     "next": "^12",
-    "next-seo": "^5.0.0",
-    "next-sitemap": "^2.0.0",
+    "next-seo": "^5",
+    "next-sitemap": "^2",
     "pattern-runner": "latest",
     "react": "^17",
     "react-dom": "^17",
@@ -44,7 +44,7 @@
     "eslint-config-next": "^12",
     "husky": "^7",
     "lint-staged": "^12",
-    "pinst": "^3.0.0"
+    "pinst": "^3"
   },
   "eslintConfig": {
     "extends": [
