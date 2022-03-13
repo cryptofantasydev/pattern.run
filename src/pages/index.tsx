@@ -89,7 +89,7 @@ export default function GalleryPage({ data }: GalleryPageProps) {
               <Mantine.Title className={classes.patternTitle} order={6}>
                 Source code
               </Mantine.Title>
-              <Prism language="javascript" sx={{ maxWidth: "100vw" }}>
+              <Prism language="javascript" sx={{ maxWidth: "100vw" }} trim={false}>
                 {source}
               </Prism>
             </Mantine.Box>
@@ -97,7 +97,7 @@ export default function GalleryPage({ data }: GalleryPageProps) {
               <Mantine.Title className={classes.patternTitle} order={6}>
                 Result
               </Mantine.Title>
-              <Prism language="markup" noCopy sx={{ maxWidth: "100vw" }}>
+              <Prism language="markup" noCopy sx={{ maxWidth: "100vw" }} trim={false}>
                 {result}
               </Prism>
             </Mantine.Box>
