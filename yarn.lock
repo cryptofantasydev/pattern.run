@@ -618,15 +618,15 @@ __metadata:
   linkType: hard
 
 "@mantine/next@npm:^4":
-  version: 4.0.6
-  resolution: "@mantine/next@npm:4.0.6"
+  version: 4.0.7
+  resolution: "@mantine/next@npm:4.0.7"
   dependencies:
-    "@mantine/ssr": 4.0.6
+    "@mantine/ssr": 4.0.7
   peerDependencies:
     next: "*"
     react: ">=16.8.0"
     react-dom: ">=16.8.0"
-  checksum: 43d9d1fe685f3d36082014e82d7fb2a3440ef59157bf6127626f115a49d5a579cb61b3432cca97a38f490e74546043473f4b098a656e9439a1372c95fea00423
+  checksum: 1509b49e96e6ba65d70f136bb5664f9ddbd4cccea4ff0885206a4bb5f3ecd1f192d9ac6ba52c7d89ac8fcb1cee6af956ff38a56fad37e83434f55d761aecc042
   languageName: node
   linkType: hard
 
@@ -645,39 +645,22 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mantine/ssr@npm:4.0.6":
-  version: 4.0.6
-  resolution: "@mantine/ssr@npm:4.0.6"
+"@mantine/ssr@npm:4.0.7":
+  version: 4.0.7
+  resolution: "@mantine/ssr@npm:4.0.7"
   dependencies:
     "@emotion/cache": ^11.7.1
     "@emotion/react": ^11.7.1
     "@emotion/serialize": ^1.0.2
     "@emotion/server": ^11.4.0
     "@emotion/utils": ^1.0.0
-    "@mantine/styles": 4.0.6
+    "@mantine/styles": 4.0.7
     csstype: ^3.0.9
     html-react-parser: ^1.3.0
   peerDependencies:
     react: ">=16.8.0"
     react-dom: ">=16.8.0"
-  checksum: e50344421d759a86ef27c7181b14db62acafca206c2faeac7826b8874e5317e15ae1c0f6fd197fe90df1713f5c9161eb336c666c11bcedb608a71caedb0f757b
-  languageName: node
-  linkType: hard
-
-"@mantine/styles@npm:4.0.6":
-  version: 4.0.6
-  resolution: "@mantine/styles@npm:4.0.6"
-  dependencies:
-    "@emotion/cache": ^11.7.1
-    "@emotion/react": ^11.7.1
-    "@emotion/serialize": ^1.0.2
-    "@emotion/utils": ^1.0.0
-    clsx: ^1.1.1
-    csstype: ^3.0.9
-  peerDependencies:
-    react: ">=16.8.0"
-    react-dom: ">=16.8.0"
-  checksum: a27a2f8cbb7b28e6f8c36f0b26d2ebbec2850a79cb06b5b13d1171127b8e48fade464359bef03d1258c43cc195bde2335be08a0cd7e7eb2f17e0841c4b66531f
+  checksum: 781c47e787d6dd65ef84126e858cc16279439fcb0bf8a2906ca887991fd3ee85f8bbae2c97e24c7924d697b7d2b69ee2f6a1f8aa7d9755f14451d44e578e527a
   languageName: node
   linkType: hard
 
