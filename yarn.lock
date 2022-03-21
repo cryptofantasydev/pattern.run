@@ -4416,8 +4416,8 @@ __metadata:
   linkType: hard
 
 "next-sitemap@npm:^2":
-  version: 2.5.10
-  resolution: "next-sitemap@npm:2.5.10"
+  version: 2.5.11
+  resolution: "next-sitemap@npm:2.5.11"
   dependencies:
     "@corex/deepmerge": ^2.6.148
     minimist: ^1.2.5
@@ -4425,7 +4425,7 @@ __metadata:
     next: "*"
   bin:
     next-sitemap: bin/next-sitemap
-  checksum: 0a5c37eef72eceedd35bf6f8c9f45e6d36456256a48b9a0cbf822b205d769f201c42a9427ff27244b68b62ad6e81b923da049a113d6456a517471aff972ad2ee
+  checksum: 62ecd210fb3340a286633a2a0b0e8397765b8486e92e1ff61414516f8aa4c41b092e610303f4638b554053a8328672c8e0bf524ab0c67e9b2a9a88016845581d
   languageName: node
   linkType: hard
 
