@@ -664,23 +664,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mantine/styles@npm:4.1.0":
-  version: 4.1.0
-  resolution: "@mantine/styles@npm:4.1.0"
-  dependencies:
-    "@emotion/cache": ^11.7.1
-    "@emotion/react": ^11.7.1
-    "@emotion/serialize": ^1.0.2
-    "@emotion/utils": ^1.0.0
-    clsx: ^1.1.1
-    csstype: ^3.0.9
-  peerDependencies:
-    react: ">=16.8.0"
-    react-dom: ">=16.8.0"
-  checksum: d46761815dddf7964c04909664aff96f10e6f2edc272c9003d1980468266c252aa4ba26e5a80a72b680609fb6375bb51ec6924ab9f2fb5a0a9833c1f6e01bde4
-  languageName: node
-  linkType: hard
-
 "@mantine/styles@npm:4.1.1":
   version: 4.1.1
   resolution: "@mantine/styles@npm:4.1.1"
@@ -4566,8 +4549,8 @@ __metadata:
   linkType: hard
 
 "next-sitemap@npm:^2":
-  version: 2.5.17
-  resolution: "next-sitemap@npm:2.5.17"
+  version: 2.5.19
+  resolution: "next-sitemap@npm:2.5.19"
   dependencies:
     "@corex/deepmerge": ^2.6.148
     minimist: ^1.2.6
@@ -4575,7 +4558,7 @@ __metadata:
     next: "*"
   bin:
     next-sitemap: bin/next-sitemap
-  checksum: f135847c5eff5d88cdb322615cf3b7175dded25073acf561cd38ca9aead1d44bf0694acb24575339fda8eb4eb459219dbe179b3e36a2fa058b794d33e3da10e9
+  checksum: 998d885f360a20eb23c24b76f78dc4e1a280395dced398b8f3b2c0729c8164ac8c70d841f05145c57d4782955ad1685a6f4d82a24472a31c9e37b40b10c25987
   languageName: node
   linkType: hard
 
