@@ -608,11 +608,11 @@ __metadata:
   linkType: hard
 
 "@mantine/hooks@npm:^4":
-  version: 4.1.2
-  resolution: "@mantine/hooks@npm:4.1.2"
+  version: 4.1.3
+  resolution: "@mantine/hooks@npm:4.1.3"
   peerDependencies:
     react: ">=16.8.0"
-  checksum: cfc41bf4797efd22cc2b193a3391570a835c3b4d348c44dafc798782e126deae7fafa6996fd040e84454b1515606d7ee98b41ffd91a3a4a4facc5bfb3430743a
+  checksum: 82ffaca96f17beffd7a933fa87426c0f20468f005f99fb233be19892bb6c9a192a342c6f401a8997d4ebf43b9a61eb0564c6e8d79fec821e7297476b200ca811
   languageName: node
   linkType: hard
 
