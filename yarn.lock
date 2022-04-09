@@ -591,19 +591,19 @@ __metadata:
   linkType: hard
 
 "@mantine/core@npm:^4":
-  version: 4.1.2
-  resolution: "@mantine/core@npm:4.1.2"
+  version: 4.1.3
+  resolution: "@mantine/core@npm:4.1.3"
   dependencies:
-    "@mantine/styles": 4.1.2
+    "@mantine/styles": 4.1.3
     "@popperjs/core": ^2.9.3
     "@radix-ui/react-scroll-area": ^0.1.1
     react-popper: ^2.2.5
     react-textarea-autosize: ^8.3.2
   peerDependencies:
-    "@mantine/hooks": 4.1.2
+    "@mantine/hooks": 4.1.3
     react: ">=16.8.0"
     react-dom: ">=16.8.0"
-  checksum: ec75a62c9acdbfa05669a2cc702c8d8d4cf0dc640da9fc3bd717f279328e835c0551aa16623cf3835e88889b7dd9f7993069ed929a9718631b2bb43fc2427030
+  checksum: 8e86809b65619334b2e2b7a5ca295b3e43e6583b280d22b1e05f5c256e337146b0d1cd788f445fa64bfbb3fc1171c421fb5202c0185d0489c3a15a8e0056fd58
   languageName: node
   linkType: hard
 
