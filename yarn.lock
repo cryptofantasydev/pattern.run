@@ -326,19 +326,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@codesandbox/sandpack-client@npm:^0.18.0":
-  version: 0.18.0
-  resolution: "@codesandbox/sandpack-client@npm:0.18.0"
+"@codesandbox/sandpack-client@npm:^0.19.0":
+  version: 0.19.0
+  resolution: "@codesandbox/sandpack-client@npm:0.19.0"
   dependencies:
     codesandbox-import-utils: ^1.2.3
     lodash.isequal: ^4.5.0
-  checksum: 88691bb591f1095238c1e79633da6316f389add6dcaf852e53da78d6048d4724898d5356bda59c1e95b9f2d64f7f89a52f9f1b6149310fbb2b81d7f5b4557e7f
+  checksum: d5b1fbfb6d3824aa179c7895068a9e22fc268368cb2065f05411ea10b0f52db3167dc9e83fb2615eac972c42d6c071e33aa2c91f0e9383d53ba9a8e1eed049b4
   languageName: node
   linkType: hard
 
 "@codesandbox/sandpack-react@npm:^0":
-  version: 0.18.2
-  resolution: "@codesandbox/sandpack-react@npm:0.18.2"
+  version: 0.19.0
+  resolution: "@codesandbox/sandpack-react@npm:0.19.0"
   dependencies:
     "@code-hike/classer": ^0.0.0-aa6efee
     "@codemirror/closebrackets": ^0.19.0
@@ -354,7 +354,7 @@ __metadata:
     "@codemirror/matchbrackets": ^0.19.3
     "@codemirror/state": ^0.19.6
     "@codemirror/view": ^0.19.32
-    "@codesandbox/sandpack-client": ^0.18.0
+    "@codesandbox/sandpack-client": ^0.19.0
     "@react-hook/intersection-observer": ^3.1.1
     codesandbox-import-util-types: ^2.2.3
     lodash.isequal: ^4.5.0
@@ -364,7 +364,7 @@ __metadata:
   peerDependencies:
     react: ^16.8.0 || ^17
     react-dom: ^16.8.0 || ^17
-  checksum: f676e20370cb0258564a77738ea51b8a2699535e4a3791961cc362d65fbf576978aea22989a3063a017422995a4b1b30ddae7cafdf3cb147d2a3219550c488c3
+  checksum: cd1daf1e231af78cba53161cc69093ea0b1585f4538793da0d33d28b7d86215c2f2abeae9a3356af487344d5824ad7754a6e614854d4536fa5e477c09250e1ac
   languageName: node
   linkType: hard
 
