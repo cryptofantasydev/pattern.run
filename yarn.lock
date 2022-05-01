@@ -397,7 +397,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@emotion/cache@npm:^11.7.1":
+"@emotion/cache@npm:11.7.1, @emotion/cache@npm:^11.7.1":
   version: 11.7.1
   resolution: "@emotion/cache@npm:11.7.1"
   dependencies:
@@ -424,6 +424,29 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@emotion/react@npm:11.7.1":
+  version: 11.7.1
+  resolution: "@emotion/react@npm:11.7.1"
+  dependencies:
+    "@babel/runtime": ^7.13.10
+    "@emotion/cache": ^11.7.1
+    "@emotion/serialize": ^1.0.2
+    "@emotion/sheet": ^1.1.0
+    "@emotion/utils": ^1.0.0
+    "@emotion/weak-memoize": ^0.2.5
+    hoist-non-react-statics: ^3.3.1
+  peerDependencies:
+    "@babel/core": ^7.0.0
+    react: ">=16.8.0"
+  peerDependenciesMeta:
+    "@babel/core":
+      optional: true
+    "@types/react":
+      optional: true
+  checksum: 3392aa71f9c68c16022947959f7f842174e6b075b3baf58e185462411cd9b5a87557109a9225b1abaa2d7200a08b7cb9d7f21aa035f0d36b2c89e19b2a124e02
+  languageName: node
+  linkType: hard
+
 "@emotion/react@npm:^11.7.1":
   version: 11.8.2
   resolution: "@emotion/react@npm:11.8.2"
@@ -447,7 +470,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@emotion/serialize@npm:^1.0.2":
+"@emotion/serialize@npm:1.0.2, @emotion/serialize@npm:^1.0.2":
   version: 1.0.2
   resolution: "@emotion/serialize@npm:1.0.2"
   dependencies:
@@ -488,6 +511,13 @@ __metadata:
   version: 0.7.5
   resolution: "@emotion/unitless@npm:0.7.5"
   checksum: f976e5345b53fae9414a7b2e7a949aa6b52f8bdbcc84458b1ddc0729e77ba1d1dfdff9960e0da60183877873d3a631fa24d9695dd714ed94bcd3ba5196586a6b
+  languageName: node
+  linkType: hard
+
+"@emotion/utils@npm:1.0.0":
+  version: 1.0.0
+  resolution: "@emotion/utils@npm:1.0.0"
+  checksum: 3ce8048441a915447d9ef51eb6d1d4cbcce8c8d1647bc7a23333ce2fb2249e74cf9471670d6f49a716e93ff633c9e7a6633517698e17391aebfc40c9d0cabcc0
   languageName: node
   linkType: hard
 
@@ -591,19 +621,19 @@ __metadata:
   linkType: hard
 
 "@mantine/core@npm:^4":
-  version: 4.2.1
-  resolution: "@mantine/core@npm:4.2.1"
+  version: 4.2.2
+  resolution: "@mantine/core@npm:4.2.2"
   dependencies:
-    "@mantine/styles": 4.2.1
+    "@mantine/styles": 4.2.2
     "@popperjs/core": ^2.9.3
     "@radix-ui/react-scroll-area": ^0.1.1
     react-popper: ^2.2.5
     react-textarea-autosize: ^8.3.2
   peerDependencies:
-    "@mantine/hooks": 4.2.1
+    "@mantine/hooks": 4.2.2
     react: ">=16.8.0"
     react-dom: ">=16.8.0"
-  checksum: f3849b05956200daeb98dafd7259cb2c0245aa1c48e9cb14279e14f635739907a2c1d024bcf9951f4df3fb5e83ad28fed9ac8c6f60866b6e5b50626b7b49f52e
+  checksum: ef71f810d2237f7393e656a5531e1cb2d04b13e2ce9f14483956ad9073f9f78c0701b12e14d931945da717822f0c9e175941b3a3041b36ddc549798fc3302acb
   languageName: node
   linkType: hard
 
@@ -676,6 +706,23 @@ __metadata:
     react: ">=16.8.0"
     react-dom: ">=16.8.0"
   checksum: 9bc2af578d7a6fea6a962bdb395eba0e32851d6ce3c6400932a4ebf2ec51567cdb47a726a6e418d00e459cdfdfa4b6c8d6057ee1414554288c5c0cacb9035c84
+  languageName: node
+  linkType: hard
+
+"@mantine/styles@npm:4.2.2":
+  version: 4.2.2
+  resolution: "@mantine/styles@npm:4.2.2"
+  dependencies:
+    "@emotion/cache": 11.7.1
+    "@emotion/react": 11.7.1
+    "@emotion/serialize": 1.0.2
+    "@emotion/utils": 1.0.0
+    clsx: ^1.1.1
+    csstype: 3.0.9
+  peerDependencies:
+    react: ">=16.8.0"
+    react-dom: ">=16.8.0"
+  checksum: 9a4c029764388895fa92ed83ddffbfe596444c0e60a024b135ce7157ff873d4580ee8416ff76181f930dd1bd1d3064d4c2ad28df6ddcc7ea04fecb2edb795840
   languageName: node
   linkType: hard
 
@@ -2069,6 +2116,13 @@ __metadata:
   version: 0.0.10
   resolution: "cssfilter@npm:0.0.10"
   checksum: bc2c52bbb3426c3f2e4832edb6f8573e6cfa65b40b540932762d1e018f0f0157725e2991b77344bbc8266c6bbf4daa2803b0707cfb1bd0877505bf83a68e4b04
+  languageName: node
+  linkType: hard
+
+"csstype@npm:3.0.9":
+  version: 3.0.9
+  resolution: "csstype@npm:3.0.9"
+  checksum: 199f9af7e673f9f188525c3102a329d637ff46c52f6385a4427ff5cb17adcb736189150170a7af7c5701d18d7704bdad130273f4aa7e44c6c4f9967e6115dc93
   languageName: node
   linkType: hard
 
