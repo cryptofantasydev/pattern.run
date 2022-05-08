@@ -565,15 +565,15 @@ __metadata:
   linkType: hard
 
 "@mantine/next@npm:^4":
-  version: 4.2.2
-  resolution: "@mantine/next@npm:4.2.2"
+  version: 4.2.3
+  resolution: "@mantine/next@npm:4.2.3"
   dependencies:
-    "@mantine/ssr": 4.2.2
+    "@mantine/ssr": 4.2.3
   peerDependencies:
     next: "*"
     react: ">=16.8.0"
     react-dom: ">=16.8.0"
-  checksum: 7bf01724a99e83511a9198464c2e45e79ccede1a78e74c162f670eca01843aa09652d338c16282d14b607c771ba960f1bc32183dd75969ca8fda79973cab08fa
+  checksum: 00d19e87789321977a28ebc6cf1e4b344e519c5c3639d63d8a40c49cb6a1046ef38ef85ff983b973f476c560d53b6c4115a7112aa8c20d0acd2f17a35fa1a1df
   languageName: node
   linkType: hard
 
@@ -591,22 +591,22 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mantine/ssr@npm:4.2.2":
-  version: 4.2.2
-  resolution: "@mantine/ssr@npm:4.2.2"
+"@mantine/ssr@npm:4.2.3":
+  version: 4.2.3
+  resolution: "@mantine/ssr@npm:4.2.3"
   dependencies:
     "@emotion/cache": 11.7.1
     "@emotion/react": 11.7.1
     "@emotion/serialize": 1.0.2
     "@emotion/server": 11.4.0
     "@emotion/utils": 1.0.0
-    "@mantine/styles": 4.2.2
+    "@mantine/styles": 4.2.3
     csstype: 3.0.9
     html-react-parser: 1.3.0
   peerDependencies:
     react: ">=16.8.0"
     react-dom: ">=16.8.0"
-  checksum: 45c9909d4e312f5b5b154977c9df7baa74fb7e3839a6c9b6373dcdbb983c5323a3a169743250b2f3dca7d708845dbafebbe1972f91894a6b2d0afa990fa7bad6
+  checksum: a3851ebb49e4182fb2f622d8b27e4c7ffa199f444ae303ed337f1fa42d937eb5469e5b21f81777154a435575c5425c21889f4d62f1b08c1952d8679323c35f74
   languageName: node
   linkType: hard
 
@@ -624,6 +624,23 @@ __metadata:
     react: ">=16.8.0"
     react-dom: ">=16.8.0"
   checksum: 9a4c029764388895fa92ed83ddffbfe596444c0e60a024b135ce7157ff873d4580ee8416ff76181f930dd1bd1d3064d4c2ad28df6ddcc7ea04fecb2edb795840
+  languageName: node
+  linkType: hard
+
+"@mantine/styles@npm:4.2.3":
+  version: 4.2.3
+  resolution: "@mantine/styles@npm:4.2.3"
+  dependencies:
+    "@emotion/cache": 11.7.1
+    "@emotion/react": 11.7.1
+    "@emotion/serialize": 1.0.2
+    "@emotion/utils": 1.0.0
+    clsx: ^1.1.1
+    csstype: 3.0.9
+  peerDependencies:
+    react: ">=16.8.0"
+    react-dom: ">=16.8.0"
+  checksum: 71fa06231e299a0d204fea32d7dc364341086b8f811be97ebf006634422d929b6f9bc461db6dcf27dbce0ab21e22078e05f01104658625178bdb41b4861221a1
   languageName: node
   linkType: hard
 
