@@ -610,23 +610,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mantine/styles@npm:4.2.2":
-  version: 4.2.2
-  resolution: "@mantine/styles@npm:4.2.2"
-  dependencies:
-    "@emotion/cache": 11.7.1
-    "@emotion/react": 11.7.1
-    "@emotion/serialize": 1.0.2
-    "@emotion/utils": 1.0.0
-    clsx: ^1.1.1
-    csstype: 3.0.9
-  peerDependencies:
-    react: ">=16.8.0"
-    react-dom: ">=16.8.0"
-  checksum: 9a4c029764388895fa92ed83ddffbfe596444c0e60a024b135ce7157ff873d4580ee8416ff76181f930dd1bd1d3064d4c2ad28df6ddcc7ea04fecb2edb795840
-  languageName: node
-  linkType: hard
-
 "@mantine/styles@npm:4.2.3":
   version: 4.2.3
   resolution: "@mantine/styles@npm:4.2.3"
@@ -1067,9 +1050,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:^14":
-  version: 14.18.16
-  resolution: "@types/node@npm:14.18.16"
-  checksum: 1999799309dc8620a2adf9a5d5e48416af87321bae4c950b4aa8018fcef2c3b6c1fcf98c39eae06f6492c03a643a5a44e2bb3750cd2574d9cf7eac33bac50e24
+  version: 14.18.17
+  resolution: "@types/node@npm:14.18.17"
+  checksum: 39c1647c10dba23d338a9d76b90b814a86275f047beb856a2f85536f3c061a7232ff7b8691e85800a82f2e3670976aa29635c84344690052cf03272476198adb
   languageName: node
   linkType: hard
 
